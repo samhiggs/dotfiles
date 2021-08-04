@@ -1,1 +1,3 @@
 # dotfiles
+
+Font: MesloLGS NF
